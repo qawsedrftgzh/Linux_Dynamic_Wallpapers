@@ -1,33 +1,36 @@
 # Linux Dynamic Wallpapers
-
+## all wallpapers will be updated for KDE
+* [] BigSur
+* [] BigSurV2
+* [] Catalina
+* [] Coast
+* [] Desert
+* [] EOS-SnowCappedMountain
+* [] EOS-Sunset
+* [] EOS-ViktorForgacs
+* [] EOS-WeYamle
+* [] MagicLake
+* [] Material
+* [] Minimal Mojave
+* [] Mojave
+* [] MojaveV2
+* [] RockyMountain
+* [] Surface
+* [] SurfaceBreeze
+* [] UbuntuMinimal
+* [] WhiteLighthouse
+* [] ZorinBlur
+* [] ZorinMountain
+* [] ZorinMountainFog 
+* 
 <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Logo.png" width="128">
 
 <b>[Dynamic wallpapers like MacOS for Linux](https://www.gnome-look.org/p/1499429/)</b>
 
-   * Tested on Manjaro Gnome 20.2.1
+   * Tested on Manjaro KDE 21
 
 <b>INSTALLATION:</b>
-
-1. download package:
-
-   if you already installed this package, remove previous package before updating
-   
-       sudo rm -r /usr/share/backgrounds/Dynamic_Wallpapers
-       
-   clone git repository:
-   
-       cd ~
-       git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
-       cd Linux_Dynamic_Wallpapers
-
-2. install it with command : 
-   
-       sudo bash ./install.sh
-
-3. change your wallpaper from: settings > Backgrounds
-
-4. that's it. enjoy!
-
+TODO
 <b>SCREENSHOTS:</b>
 
 <table>
@@ -149,41 +152,3 @@
     </td>
   </tr>
 </table>
-
-
-
-old method for instasllation : -----------------------------------------
-
-1. download package from www.gnome-look.org/p/1499429/:
-   
-      *  extrate package
-      
-      *  go to extracted folder, right click and open in terminal
-
-2  move Dynamic_Wallpapers folder to /usr/share/backgrounds/
-
-       sudo mv Dynamic_Wallpapers /usr/share/backgrounds/
-       cd ~
-       sudo rm -r Linux_Dynamic_Wallpapers
-
-3. install gnome-tweak-tool.
-
-    Arch:
-
-       sudo pacman -S gnome-tweaks
-
-    Ubuntu:
-
-       sudo apt install gnome-tweaks
-
-4. open gnome tweaks and select xml file. 
-
-    e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
-    
-    Warning: if wallpaper does not show properly, you need to change all files and folder's permission in /usr/share/backgrounds/Dynamic_Wallpapers from root to your username
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png" width="512">
-
-5. (optional) : you can install [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/) extension for gnome shell to Automatically toggle your light and dark theme.
-
-6. enjoy!
