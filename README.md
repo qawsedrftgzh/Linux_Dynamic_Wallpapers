@@ -1,28 +1,28 @@
 # Linux Dynamic Wallpapers
 ## all wallpapers will be updated for KDE
-* [] BigSur
-* [] BigSurV2
-* [] Catalina
-* [] Coast
-* [] Desert
-* [] EOS-SnowCappedMountain
-* [] EOS-Sunset
-* [] EOS-ViktorForgacs
-* [] EOS-WeYamle
-* [] MagicLake
-* [] Material
-* [] Minimal Mojave
-* [] Mojave
-* [] MojaveV2
-* [] RockyMountain
-* [] Surface
-* [] SurfaceBreeze
-* [] UbuntuMinimal
-* [] WhiteLighthouse
-* [] ZorinBlur
-* [] ZorinMountain
-* [] ZorinMountainFog 
-* 
+* [ ] BigSur
+* [ ] BigSurV2
+* [ ] Catalina
+* [ ] Coast
+* [ ] Desert
+* [ ] EOS-SnowCappedMountain
+* [ ] EOS-Sunset
+* [ ] EOS-ViktorForgacs
+* [ ] EOS-WeYamle
+* [ ] MagicLake
+* [ ] Material
+* [ ] Minimal Mojave
+* [ ] Mojave
+* [ ] MojaveV2
+* [ ] RockyMountain
+* [ ] Surface
+* [ ] SurfaceBreeze
+* [ ] UbuntuMinimal
+* [ ] WhiteLighthouse
+* [ ] ZorinBlur
+* [ ] ZorinMountain
+* [ ] ZorinMountainFog 
+
 <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Logo.png" width="128">
 
 <b>[Dynamic wallpapers like MacOS for Linux](https://www.gnome-look.org/p/1499429/)</b>
