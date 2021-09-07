@@ -1,0 +1,43 @@
+[
+    {
+        "CrossFade": true,
+        "Time": "06:00",
+        "FileName": "1.jpg"
+    },
+    {
+        "CrossFade": true,
+        "Time": "07:00",
+        "FileName": "2.jpg"
+    },
+    {
+        "CrossFade": true,
+        "Time": "10:00",
+        "FileName": "3.jpg"
+    },
+    {
+        "CrossFade": true,
+        "Time": "14:00",
+        "FileName": "4.jpg"
+    },
+    {
+        "CrossFade": true,
+        "Time": "18:00",
+        "FileName": "5.jpg"
+    },
+    {
+        "CrossFade": true,
+        "Time": "19:00",
+        "FileName": "6.jpg"
+    },
+    { 
+        "CrossFade": true,
+        "Time": "20:00",
+        "FileName": "7.jpg"
+    },
+    {
+        "CrossFade": true,
+        "Time": "21:00",
+        "FileName": "8.jpg"
+    } 
+
+]
