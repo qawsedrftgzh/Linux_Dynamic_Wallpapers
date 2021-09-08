@@ -1,0 +1,13 @@
+[
+    {
+        "CrossFade": true,
+        "Time": "06:00",
+        "FileName": "Desert1.jpg"
+    },
+    {
+        "CrossFade": true,
+        "Time": "18:00",
+        "FileName": "Desert2.jpg"
+    }
+]
+
