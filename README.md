@@ -1,12 +1,12 @@
 # Linux Dynamic Wallpapers
 ## all wallpapers will be updated for KDE
-* [ ] BigSur
-* [ ] BigSurV2
-* [ ] Catalina
-* [ ] Coast
-* [ ] Desert
-* [ ] EOS-SnowCappedMountain
-* [ ] EOS-Sunset
+* [x] BigSur
+* [x] BigSurV2
+* [ ] Catalina File was too large to upload.
+* [x] Coast
+* [x] Desert
+* [x] EOS-SnowCappedMountain
+* [x] EOS-Sunset
 * [ ] EOS-ViktorForgacs
 * [ ] EOS-WeYamle
 * [ ] MagicLake
